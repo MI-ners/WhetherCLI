@@ -1,0 +1,4 @@
+How to make structs from a json and parsing 
+how to use a although easy api still knowledge 
+how to use others modules and also how to make it available as a bin command 
+very cool its is a good start me!!!! 
